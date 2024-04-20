@@ -1,6 +1,6 @@
-# Condicionais e Loops
+# Condicionais
 
-> Olá, queridos! Vamos continuar aprendendo mais sobre JS? A conversa de hoje vai abordar mais coisas ainda que é possível fazer com JS, por isso conversaremos sobre proposições e estruturas repetitivas. Pega um redbull e vamos nessa! Aulas → Aula 4 + Aula 5 + Aula 6
+> Olá, queridos! Vamos continuar aprendendo mais sobre JS? A conversa de hoje vai abordar mais coisas ainda que é possível fazer com JS, por isso conversaremos sobre proposições e estruturas repetitivas. Pega um redbull e vamos nessa! Aulas → Aula 4 + Aula 5
 
 ## Conteúdo da Aula
 
