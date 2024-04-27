@@ -5,7 +5,7 @@ Mas pode chamá-lo de Typescript!
 Pois é, galera! Chegamos nele, depois de tantas aulas de JS entramos no TypeScript! 
 Como conversado no início de nossas aulas, vamos abordar as funcionalidades que o TS traz para a gente e suas vantagens!
 Pega a visão e simboraaa!
-Aulas → Aula 12
+Aulas → Aula 12 + Aula 13
 > 
 
 ## Conteúdo da Aula
